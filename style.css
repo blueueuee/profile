@@ -4,7 +4,7 @@ body {
 }
 .home {
     background: linear-gradient(to right, #4facfe, #00f2fe);
-    height: 100vh; /* Full screen height */
+    height: 100vh;
 }
 .center-box {
     display: flex;
